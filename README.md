@@ -6,6 +6,7 @@ Real-time industrial device monitoring and control platform built on ThingsBoard
 ![ThingsBoard](https://img.shields.io/badge/ThingsBoard-4.x-green)
 ![Docker](https://img.shields.io/badge/Docker-ready-blue)
 ![Devices](https://img.shields.io/badge/Devices-6-orange)
+![Dashboard](assets/dashboard.png)
 
 ## 📋 Overview
 
